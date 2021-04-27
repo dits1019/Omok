@@ -1,0 +1,9 @@
+D:\Omok\bin\Debug\Omok.exe
+D:\Omok\bin\Debug\Omok.pdb
+D:\Omok\obj\x86\Debug\Omok.Form1.resources
+D:\Omok\obj\x86\Debug\Omok.Properties.Resources.resources
+D:\Omok\obj\x86\Debug\Omok.csproj.GenerateResource.Cache
+D:\Omok\obj\x86\Debug\Omok.exe
+D:\Omok\obj\x86\Debug\Omok.pdb
+D:\Omok\obj\x86\Debug\Omok.csprojAssemblyReference.cache
+D:\Omok\obj\x86\Debug\Omok.csproj.CoreCompileInputs.cache

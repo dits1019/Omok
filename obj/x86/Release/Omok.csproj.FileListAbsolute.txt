@@ -1,0 +1,8 @@
+D:\Omok\bin\Release\Omok.exe
+D:\Omok\bin\Release\Omok.pdb
+D:\Omok\obj\x86\Release\Omok.csprojResolveAssemblyReference.cache
+D:\Omok\obj\x86\Release\Omok.Form1.resources
+D:\Omok\obj\x86\Release\Omok.Properties.Resources.resources
+D:\Omok\obj\x86\Release\Omok.csproj.GenerateResource.Cache
+D:\Omok\obj\x86\Release\Omok.exe
+D:\Omok\obj\x86\Release\Omok.pdb
